@@ -1,0 +1,15 @@
+.search-panel-box {
+    padding: 0 15px;
+}
+
+.search-pan {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-btn {
+    margin-left: 15px;
+}
+
+
